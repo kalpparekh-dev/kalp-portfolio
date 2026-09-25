@@ -1,12 +1,14 @@
 # Kalp Parekh — Systems & Intelligence Engineer Portfolio
 
-[![Production Build](https://img.shields.io/badge/Build-Passing-emerald?style=for-the-badge&logo=render)](https://render.com)
+[![Live Site](https://img.shields.io/badge/Live_Site-kalp--portfolio.onrender.com-B3542B?style=for-the-badge&logo=render&logoColor=white)](https://kalp-portfolio.onrender.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 > Production-grade, architectural, 3D interactive portfolio site showcasing high-throughput systems engineering, AI pipelines, and distributed platforms.
+
+🔗 **Live Experience**: [https://kalp-portfolio.onrender.com](https://kalp-portfolio.onrender.com)
 
 ---
 
@@ -56,4 +58,4 @@ kalp-portfolio/
 ├── index.html
 ├── package.json
 ├── tailwind.config.js
-└── vite.config.ts
+└── vite.config.js
